@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DeepakIXYZ 
-- 👀 I’m interested in development of quantum algorithms for quantum simulations of materials on near term quantum computers.
+- 👋 Hi, @DeepakIXYZ this side. 
+- 👀 Interested in development of quantum algorithms for quantum simulations of materials on near term quantum computers.
 - 📫 Reach me at deepak01.pk@gmail.com
 
 <!---
